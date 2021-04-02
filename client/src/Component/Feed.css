@@ -1,0 +1,21 @@
+.articleHeadline {
+  background-color: white;
+  border: 1px solid #d9d9d9;
+  border-radius: 6px;
+  overflow: hidden;
+  padding: 0;
+  margin: 0.5em;
+}
+
+.articleContent {
+  padding: 10px;
+}
+
+.author {
+  font-size: 0.8rem;
+  padding: 10px;
+}
+.publishTime {
+  font-size: 0.8rem;
+  padding: 20px;
+}
