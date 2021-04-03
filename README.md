@@ -81,4 +81,4 @@ Thank you very much for visiting.
 
 # CondeNast-FS-Demo
 
-# CondeNast-FS-Demo
+For further detail on API methods, visit https://github.com/pankaj8blr/CondeNast-FS-Demo/wiki
